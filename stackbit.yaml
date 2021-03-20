@@ -159,7 +159,7 @@ models:
           - green
           - orange
           - violet
-          - violet
+          - pink
         default: green
         required: true
       - type: model
