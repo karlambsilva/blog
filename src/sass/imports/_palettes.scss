@@ -223,8 +223,8 @@
         &:focus,
         &:active {
           background: _palette(accent-pink);
-          border-color: _palette(accent-violet);
-          box-shadow: 0 0 1px 5px rgba(_palette(accent-violet),.2);
+          border-color: _palette(accent-pink);
+          box-shadow: 0 0 1px 5px rgba(_palette(accent-pink),.2);
           color: #fff;
         }
       }
