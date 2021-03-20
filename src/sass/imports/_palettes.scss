@@ -234,18 +234,18 @@
   .menu-item.current-menu-item,
   .menu-item :not(.button):hover,
   .post-title a:hover {
-    color: _palette(accent-violet);
+    color: _palette(accent-pink);
   }
 
   .site-header.dark {
     .social-links .button-icon:hover {
-      border-color: _palette(accent-violet);
+      border-color: _palette(accent-pink);
     }
 
     .menu-item .button:hover,
     .menu-item .button:focus,
     .menu-item .button:active {
-      color: _palette(accent-violet);
+      color: _palette(accent-pink);
     }
   }
 }
