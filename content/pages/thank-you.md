@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-img_path: images/thank-you.jpg
+img_path: images/wilhelm-gunkel-AKQlYooS72w-unsplash.jpg
 img_alt: Thank You Led Signage
 layout: page
 ---
